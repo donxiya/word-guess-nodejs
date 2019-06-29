@@ -9,8 +9,8 @@ Make a hangman (word guess game) in node.js, utilize constructor.
 - Word.js use Letter.js as constructor and create an array of letter object
 - Index.js is the main body of the game, and takes user input.
 
-### Funtions Demo
-- concert-this: 
+### Funtion Demo
+
 ![](https://raw.githubusercontent.com/donxiya/word-guess-nodejs/master/word-guess-gamejs-demo.gif)
 
 ### Technologies Utilized
