@@ -8,7 +8,6 @@ var Letter = function(charAnswer) {
     this.charCheck = function (charInput) {
         if (charInput === charAnswer) {
             this.display = charAnswer;
-            console.log(this.display);
             return this.display;
         }else{
             return this.display;
