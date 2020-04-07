@@ -7,7 +7,7 @@ var Word = require("./Word");
 var prompt = require("prompt");
 var inquirer = require('inquirer');
 //console.log(game.wordAnswer);
-var str = "apple";
+//var str = "apple";
 var newWord = new Word(str);
 var count = 3;
 var wordCount = str.length;
